@@ -37,7 +37,7 @@ A full time MERN developer
 <br />
 
 
--
+
 
 ### 👨🏻‍🎓 &nbsp; Education
 
