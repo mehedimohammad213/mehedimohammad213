@@ -36,9 +36,6 @@ A full time MERN developer
 <br />
 <br />
 
-
-
-
 ### 👨🏻‍🎓 &nbsp; Education
 
 1. B.Sc. in CSE, American International University of Banglaadesh (AIUB) 
