@@ -1,6 +1,6 @@
 <h1> 👋 Hello, I'm Mehedi Hasan </h1>
 
-A full time web developer  
+A full time MERN developer  
 🏠 &nbsp; Living: Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
