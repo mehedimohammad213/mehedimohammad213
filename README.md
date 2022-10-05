@@ -19,7 +19,7 @@ A full time MERN developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-    I am a passionate software engineer. I am improving my development skills. Every day I want to learn something new and share my knowledge with my friends and others.
+     I am improving my development skills. Every day I want to learn something new and share my knowledge with my friends and others.
 </p>
 
 <br />
