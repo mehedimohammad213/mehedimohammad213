@@ -1,17 +1,16 @@
 ## Hi there 👋
 ### Thanks for visiting my profile. I'm a software engineer based in my educational background.
 
+
 ## How to reach me: 
 - GitHub  : https://github.com/mehedimohammad213
 - LinkedIn: https://www.linkedin.com/in/mehedi-hasan-14b984241/
 - Email   : mehedimohammad213@gmail.com
 
+
 #### Key Skills & Videos on Web development:
    HTML/CSS/BOOTSTRAP/SASS || JS/JQUERY/TYPESCRIPT/REACT /NODE JS/EXPRESS JS/MONGO DB || DM/SEO/WORDPRESS
 
-<br />
-<br />
-<br />
 
 ### Education
 
