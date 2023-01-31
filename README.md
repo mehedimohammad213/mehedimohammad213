@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Thanks for visiting my profile. I'm a software engineer based in Melbourne.
+### Thanks for visiting my profile. I'm a software engineer based in my educational background.
 
 ## How to reach me: 
 - GitHub  : https://github.com/mehedimohammad213
