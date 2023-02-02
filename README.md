@@ -3,23 +3,22 @@
 
 
 ## How to reach me: 
+
 - GitHub  : https://github.com/mehedimohammad213
 - LinkedIn: https://www.linkedin.com/in/mehedi-hasan-14b984241/
 - Email   : mehedimohammad213@gmail.com
 
 
-#### Key Skills & Videos on Web development:
-   HTML/CSS/BOOTSTRAP/SASS || JS/JQUERY/TYPESCRIPT/REACT /NODE JS/EXPRESS JS/MONGO DB || DM/SEO/WORDPRESS
+   
+## My CV/Resume:
+
+You can see and download the pdf copy of my latest resume from below 👇
+
+- [GitHub view](https://github.com/mehedimohammad213/CV-Resume/blob/main/mehediintern.pdf)
+- [LinkedIn_view](https://www.linkedin.com/posts/mehedi-hasan-14b984241_cv-activity-7026062230492241920-aglS?utm_source=share&utm_medium=member_desktop)
 
 
-### Education
 
-1. B.Sc. in CSE, American International University of Banglaadesh (AIUB) 
-   Dhaka, Bangladesh.
-2. HSC in science, Birshrestho Noor Mohammad Public College (BNMPC)
-   Dhaka, Bangladesh.
-3. SSC in science, Annada Govt High School (AGHS)
-   Brahmanbaria, Bangladesh.
 
 
 
