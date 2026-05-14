@@ -16,7 +16,7 @@
 
 - 🌍 Based in **Khilkhet, Dhaka, Bangladesh**
 - 🔭 Currently working as **Software Engineer, Headless CMS**
-- 👨‍💻 Over **3 years** of experience in full-stack development and strategic innovation
+- 👨‍💻 Over **4 years** of experience in full-stack development and strategic innovation
 - 🎯 Seeking to drive impactful projects, improve efficiency.
 
 ### 🛠️ Technologies & Tools
