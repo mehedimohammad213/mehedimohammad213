@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://mehedi213.vercel.app/">🌐 Website</a> •
   <a href="mailto:mehedimohammad213@gmail.com">✉️ Email</a> •
-  <a href="https://www.linkedin.com/in/mehedi-hasan-14b984241/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mehedi-hasan-14b984241/?isSelfProfile=false">💼 LinkedIn</a>
 </p>
 
 <p align="center">
