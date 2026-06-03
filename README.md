@@ -56,26 +56,6 @@
 
 - 🎓 **American International University of Bangladesh** - Bachelor of Science in Computer Science and Engineering, 2023
 
-### 📫 Get in Touch
-
-<p>
-  <a href="mailto:mehedimohammad213@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="tel:+8801830377213"><img alt="Phone" src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=WhatsApp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mehedi-hasan-14b984241/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
-  <a href="https://mehedi213.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedimohammad213&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedimohammad213&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### ⚡ Fun Fact
 
