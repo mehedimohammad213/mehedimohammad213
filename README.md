@@ -1,13 +1,12 @@
 <h1 align="center">Hi there, I'm Mehedi Hasan 👋</h1>
 
 <p align="center">
-  <a href="https://mehedi213.vercel.app/">🌐 Website</a> •
   <a href="mailto:mehedimohammad213@gmail.com">✉️ Email</a> •
   <a href="https://www.linkedin.com/in/mehedi-hasan-14b984241/?isSelfProfile=false">💼 LinkedIn</a>
 </p>
 
 <p align="center">
-  Software Engineer • Open Source Enthusiast
+  Software Quality Assurance Engineer • Open Source Enthusiast
 </p>
 
 ---
@@ -15,7 +14,7 @@
 ### 🚀 About Me
 
 - 🌍 Based in **Khilkhet, Dhaka, Bangladesh**
-- 🔭 Currently working as **Software Engineer, Headless CMS**
+- 🔭 Currently working as **Software QA Engineer**
 - 👨‍💻 Over **4 years** of experience in full-stack development and strategic innovation
 - 🎯 Seeking to drive impactful projects, improve efficiency.
 
@@ -35,21 +34,20 @@
 
 ### 💼 Experience
 
-#### **Ether Technologies** | *Software Engineer*
+#### **Ether Technologies** | *Automation QA Engineer*
 
-*Jan 2025 - Present*
+*Dec 2024 - Present*
 
-- **Tech Team**: Enhancing collaboration and productivity through Agile practices (Scrum, Kanban) and mentorship, boosting team performance by **30%**.
-- **Strategic Innovation**: Led initiatives using NodeJS, Playwrite, MongoDB, and AWS (EC2, S3, RDS) to reduce project delivery time by **40%**.
-- **Data-Driven Decisions**: Established processes using GraphQL and RESTful APIs, improving project completion rates and reducing costs by **20%**.
-- **Full-Stack Development**: Spearheaded the development of **MAVE CMS**, utilizing MACH architecture with React, NextJS, TypeScript, and Tailwind CSS.
+❖ Develop automation framework for Ether in-house project (AssetIQ, Sumo, KTO) in Web platform using Playwrite and Cucumber. 
+❖ Implement CI/CD pipeline for automation frameworks for Ether in-house projects.
 
 #### **Navigator Technologies** | *Jr Software QA*
 
 *Jan 2023 - Dec 2024*
 
-- **Cost-Efficiency Champion**: Implemented resource optimization with Docker and AWS, saving over **$20K**.
-- **Award-Winning Contributions**: Secured consecutive Best Employer Awards by fostering a positive work environment.
+❖ Design and develop automation framework for Shohoz App for Android and iOS platforms using WebdriverIO with Appium service. 
+❖ Manage automation team and solve issues.
+❖ CI/CD pipeline using Jenkins and cloud-based services
 
 
 ### 📚 Education
