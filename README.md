@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Software Quality Assurance Engineer • Automation Enthusiast • Open Source Contributor
+  SDET • Automation Enthusiast • Open Source Contributor
 </p>
 
 ---
